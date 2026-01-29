@@ -1,0 +1,11 @@
+﻿orderID,customerID,employeeName,orderPrice,orderStatus
+1001,C001,Ahmed Ali,1200,Booked
+1002,C002,Sara Mohamed,850,Processing
+1003,C003,Ahmed Ali,4300,Booked
+1004,C004,Mona Hassan,5217,Processing
+1005,C005,Youssef Adel,6767,Booked
+1006,C006,Sara Mohamed,8317,Processing
+1007,C007,Ahmed Ali,9867,Booked
+1008,C008,Sara Mohamed,11417,Processing
+1009,C009,Ahmed Ali,12967,Booked
+1010,C010,Mona Hassan,14517,Processing
